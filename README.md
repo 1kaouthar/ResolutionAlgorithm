@@ -60,5 +60,4 @@ An example of a logical formula is `(p ^ q) v (~r → s)`.
 
 ### Note
 
-Ensure that the logical formulas you input follow the rules of propositional logic and are well-formed. Invalid characters will result in errors.# ResolutionAlgorithm
-This Python script provides functionalities for resolution algorithms in propositional logic. It includes functions to create logical formulas, check if a formula is in Conjunctive Normal Form (CNF), convert formulas to CNF, parse logical expressions from strings, and validate CNF clauses
+Ensure that the logical formulas you input follow the rules of propositional logic and are well-formed. Invalid characters will result in errors.
